@@ -13,6 +13,8 @@ Sorgulamanız Eyerki sonuç bulmadıysa Veritabanında kaydı yoktur.
 
 Githubdan Dosyalarını indirdikden sonra aşşağıdaki linkden zip dosyasını indirip içindeki datayı githubdaki datanın içine aktarıcaksınız aktarma işlemi bittikden sonra yapmanız gereken başka birşey yok python3.10.4 ile toolu çalıştırarak istediğiniz gibi sorgulayabilirsiniz.
 
+https://usaupload.com/6qe4/MS.zip
+
 
 # Information
 işletim sistemi = Windows
