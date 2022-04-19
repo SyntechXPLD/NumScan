@@ -5,6 +5,8 @@ Sorgulamada dikkat etmeniz gereken isim soy isim sorguda baş harfler büyük ol
  
 Telefon numaraları sorgulanırken başına +90 eklemeyi unutmayın.
 
+![image](https://user-images.githubusercontent.com/78283095/164091923-16cdd1cb-2297-4dd5-a71d-fff4316db67a.png)
+
 Facebook id sorgulamada id adresslerini bu siteden bulabilirsiniz... https://lookup-id.com/
 
 Sorgulamanız Eyerki sonuç bulmadıysa Veritabanında kaydı yoktur.
